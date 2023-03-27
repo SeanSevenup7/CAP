@@ -55,6 +55,7 @@
     }
   },
   "sapux": [
-    "app/risks"
+    "app/risks",
+    "app/risks2"
   ]
 }
